@@ -1,0 +1,13 @@
+data types - 5
+==============
+None - an object that doesnt contain any values
+Numeric - int, float, complex
+Sequences - str, byte, bytearray, list, tuple, range
+Sets - 
+Mappings - 
+
+
+int(), float(), bool(), hex(), oct(), bin()
+
+type()
+
